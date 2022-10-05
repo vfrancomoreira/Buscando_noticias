@@ -1,0 +1,20 @@
+"""
+***COMANDOS CMD***
+
+mudando diretório
+cd /d D:\PyProjects\Robos\Pesquisa\env\Scripts
+
+criar uma virtual env
+>python -m venv env
+>env/Scripts/Activate
+
+cd /d D:
+pause
+
+
+***Pacotes***
+
+pip install xlrd
+pip install selenium
+pip install requests
+"""
